@@ -5,14 +5,14 @@
   <a href="#pizza-funcionalidades">Funcionalidades</a>&nbsp;|&nbsp;
   <a href="#camera-imagens">Imagens</a>&nbsp;|&nbsp;
   <a href="#fire-como-usar">Como usar</a>&nbsp;|&nbsp;
-  <a href="#deploy">Deploy</a>&nbsp;|&nbsp;
+  <a href="#versao-online">Versão online</a>&nbsp;|&nbsp;
 </h3>
 
 ## :dog: Sobre
 O Proffy é uma aplicação web que junta professores com aluno para aulas particulares.  
 
 Foi desenvolvimento durante a segunda edição da semana nlw realizada pela Rocketseat.  
-## Deploy 
+## Versão online
 https://proffy-git-master.aline595.vercel.app/
 
 ## :computer: Tecnologias
